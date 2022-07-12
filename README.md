@@ -6,9 +6,14 @@ user also gets the sensor data output on the app as well.
 /**************
 
 Techeonics
+
 By Gaurav Kumar (Techeonics) 
+CONTACT US -https://linktr.ee/Gauravk5
+
 <thetecheonics@gmail.com>
+
 Youtube- https://www.youtube.com/c/THETECHEONICS
+
 See <http://www.techeonics.com> for details.
 
 ********************/
