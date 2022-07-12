@@ -1,4 +1,4 @@
-ESP 8266/32 KIT APP Download the From Google Play Store - https://play.google.com/store/apps/details?id=appinventor.ai_99gauravbhardwaj.ESP_82
+ESP 8266/32 KIT APP Download  From the Google Play Store - https://play.google.com/store/apps/details?id=appinventor.ai_99gauravbhardwaj.ESP_82
 
 ESP 8266/32 KIT is an Android App Developed by Techeonics for the ESP8266/ESP32 Microcontroller
 
