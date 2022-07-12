@@ -1,4 +1,4 @@
-ESP 8266/32 KIT APP SOON ON GOOGLE PLAY STORE AND APP STORE
+ESP 8266/32 KIT APP ( soon on Google Play store (releasing on 17 of July 2022) )  
 
 ESP 8266/32 KIT is an Android App Developed by Techeonics for the ESP8266/ESP32 Microcontroller
 
